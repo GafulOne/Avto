@@ -1,0 +1,14 @@
+D:\rep.VS\Avto\bin\Debug\net7.0\Avto.exe
+D:\rep.VS\Avto\bin\Debug\net7.0\Avto.deps.json
+D:\rep.VS\Avto\bin\Debug\net7.0\Avto.runtimeconfig.json
+D:\rep.VS\Avto\bin\Debug\net7.0\Avto.dll
+D:\rep.VS\Avto\bin\Debug\net7.0\Avto.pdb
+D:\rep.VS\Avto\obj\Debug\net7.0\Avto.GeneratedMSBuildEditorConfig.editorconfig
+D:\rep.VS\Avto\obj\Debug\net7.0\Avto.AssemblyInfoInputs.cache
+D:\rep.VS\Avto\obj\Debug\net7.0\Avto.AssemblyInfo.cs
+D:\rep.VS\Avto\obj\Debug\net7.0\Avto.csproj.CoreCompileInputs.cache
+D:\rep.VS\Avto\obj\Debug\net7.0\Avto.dll
+D:\rep.VS\Avto\obj\Debug\net7.0\refint\Avto.dll
+D:\rep.VS\Avto\obj\Debug\net7.0\Avto.pdb
+D:\rep.VS\Avto\obj\Debug\net7.0\Avto.genruntimeconfig.cache
+D:\rep.VS\Avto\obj\Debug\net7.0\ref\Avto.dll
